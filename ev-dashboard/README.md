@@ -2,6 +2,9 @@
 
 A comprehensive React dashboard for analyzing electric vehicle population data, built as part of the MapUp Analytics Dashboard Assessment.
 
+## Live Demo
+
+Check out the live site here: [EV Dashboard](https://carsev-dashboard.netlify.app/)
 ## Features
 
 ### 📊 Key Metrics
